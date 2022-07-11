@@ -1,0 +1,31 @@
+*{
+    background-color: rgb(243, 235, 224);
+    box-sizing: border-box;
+}
+hr{
+    border-top: 2px solid rgb(131, 190, 249)
+}
+h3{
+
+    color: rgb(231, 118, 6);
+}
+h1{
+    text-align: center;
+}
+img{
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    padding: 1px;
+    margin: 3px;
+}
+div{
+    font-size:x-large;
+    padding-left: 300px;
+    padding-right: 300px;
+    
+}

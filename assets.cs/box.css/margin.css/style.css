@@ -1,0 +1,79 @@
+ body{
+    background-color: rgb(225, 249, 249);
+} 
+.box{
+    color: white;
+    background-color: rgb(9, 140, 188);
+    padding: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+   
+}
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+p{
+   font-family:'Times New Roman', Times, serif
+}
+.box-1{
+   border-style: solid;
+   border-color: rgb(17, 143, 17);
+   border-width: 4px;
+   
+    background-color: rgb(99, 173, 104);
+    margin-top: 40px;
+    margin-left: 490px;
+    margin-right: 230px;
+    padding:  20px;
+    width: 610px;
+}
+span{
+    margin-left: 380px;
+    font-style: italic;
+}
+.box-2{
+    border-style: solid;
+   border-color: rgb(143, 46, 11);
+   border-width: 4px;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 35%;
+    margin-right: 38%;
+    padding: 1px;
+    color: white;
+    font-size: x-large;
+    background-color: rgb(184, 59, 59);
+    font-style: italic;
+}
+.box-2.p{
+    
+    font-style: italic;
+}
+a{
+    color: white;
+}
+div.box-3{
+    color: white;
+    background-color: rgb(57, 70, 91);
+    padding: 35px;
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.box-3 h3{
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: x-large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.box-4{
+    font-family:monospace;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    background-color: rgb(24, 23, 23);
+    color:rgb(22, 90, 169)
+}

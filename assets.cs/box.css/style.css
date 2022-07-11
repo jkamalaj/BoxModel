@@ -1,0 +1,29 @@
+
+div{
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.box-3{
+  
+  width: 604px;
+  height: 400px;
+  background-color: rgb(121, 211, 249);
+}
+.box-2{
+  width: 650px;
+  height: 460px;
+  background-color: rgb(117, 252, 7);
+}
+.box-1{
+  width: 710px;
+  height: 525px;
+  background-color: yellow;
+}
+.box{
+  width: 770px;
+  height: 590px;
+  background-color: orange;
+}
+
